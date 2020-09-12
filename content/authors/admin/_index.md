@@ -78,6 +78,38 @@ user_groups:
 - Visitors
 ---
 
+
+
+<!--  Strong quantitative academic background, strong problem solving and analytical skills.
+ Experience in researching, developing, and implementing quantitative models for measuring, analyzing, and managing financial risks.
+ Strong Knowledge of SQL and other standard database query tools and related applications.
+ Data modeling using Machine learning, Dynamic programming, Stochastic Process, Monte Carlo Simulation, Time series analysis, statistical modeling, Option Pricing Theory, Stochastic Calculus and Scientific Computing.
+ Expertise in deep learning using PyTorch.
+ A strong background in data structures, algorithms, and object-oriented programming using Python and C++ primarily.
+ Statistical Analysis/Modeling mainly with R, SAS, and MATLAB.
+ Part time DESS candidate in machine learning at MILA.
+ Proficiency in French, and English. -->
+
+<!--  Seeking a quantitative analyst position with a global financial institution specializing in financial modeling.
+ Expanding my knowledge and gaining more expertise in financial data modeling.
+ Develop/implement, test/optimize quantitative models and strategies applied to finance. -->
+
+
+<!-- Bassirou Ndao is Machine learning DESS candidate at the Quebec Artificial Intelligence Institute (MILA). His research interests include distributed robotics, mobile computing and programmable matter.-->
+
+
+<!-- Have 3-5 years of applied experience in data science
+Have experience in various machine learning use cases, such as, time series analysis, regression and classification
+Have the agile mindset; delivering value iteratively
+Have expert understanding of machine learning techniques; knowledge of tools and packages such as TensorFlow, PyTorch, Keras, Scikit-Learn, XGBoost, Matplotlib.
+Have good knowledge of deep learning and more traditional machine learning algorithms
+Have the ability to build, validate, deploy and monitor alliteratively advanced predictive models
+Have excellent scripting and programming skills (such as Python, SQL)
+Have experience in conducting Machine Learning projects
+Have a positive, team-focused attitude and strong collaboration skills
+Have excellent written and communication skills to present complete and cohesive findings
+Have the ability to produce clear, logical and convincing arguments and explain complex ideas simply -->
+
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
 
@@ -103,4 +135,7 @@ user_groups:
 
 
 <!-- When you combine your knowledge of data analysis and statistical techniques, technology skills to perform the analysis, and the financial domain knowledge, you become a financial data scientist and you are in a position to get the best insights from the financial data.   -->
+
+
+
 
