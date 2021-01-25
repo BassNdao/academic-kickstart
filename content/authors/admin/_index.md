@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-
+<!-- As a graduate in Finance and a current student in Data Science -->
 
 <!--  Strong quantitative academic background, strong problem solving and analytical skills.
  Experience in researching, developing, and implementing quantitative models for measuring, analyzing, and managing financial risks.
