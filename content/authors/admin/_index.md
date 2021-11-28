@@ -80,6 +80,25 @@ user_groups:
 
 <!-- As a graduate in Finance and a current student in Data Science -->
 
+<!-- Has an incredible passion for Computer Science, AI and Computer Vision
+Is able to scientifically develop and prototype new machine learning techniques, and to run
+experiments to improve comprehension and model efficiency rate
+Has proficient knowledge of state-of-the-art techniques in machine learning and deep learning
+at scale and benchmarking
+Has an understanding of Service-Oriented Architectures
+
+Loves to collaborate and work as a team
+Prefers delivering in small iterations -->
+
+<!-- ABOUT YOU
+• Fast learner: you are able to own over your work quickly
+• Team player : you have a sense of responsibility
+• Proactive: you feel comfortable taking initiatives
+• Flexible: you enjoy working in a fast-paced environment, with rapidly changing priorities
+• Result-oriented and analytical : you have a problem-solving mindset
+ -->
+
+
 <!--  Strong quantitative academic background, strong problem solving and analytical skills.
  Experience in researching, developing, and implementing quantitative models for measuring, analyzing, and managing financial risks.
  Strong Knowledge of SQL and other standard database query tools and related applications.
